@@ -17,17 +17,18 @@
 # Project Steps:
 
    **1-** Data Collection: Gathered the dataset containing information about residential homes in Ames, Iowa.
-    Exploratory Data Analysis (EDA): Conducted an in-depth analysis of the dataset to gain insights into the features and their relationships with the target variable (house prices).
+   
+   **2-** Exploratory Data Analysis (EDA): Conducted an in-depth analysis of the dataset to gain insights into the features and their relationships with the target variable (house prices).
 
-   **2-** Data Preprocessing: Cleaned and preprocessed the dataset by handling missing values, outliers, and categorical variables.
+   **3-** Data Preprocessing: Cleaned and preprocessed the dataset by handling missing values, outliers, and categorical variables.
 
-   **3-** Feature Selection: Identified the most relevant features for predicting house prices, considering factors such as correlation, importance, and domain knowledge.
+   **4-** Feature Selection: Identified the most relevant features for predicting house prices, considering factors such as correlation, importance, and domain knowledge.
 
-   **4-** Model Selection and Tuning: Explored various regression algorithms, including linear regression, decision trees, random forests, and gradient boosting, to identify the best-performing model. Employed techniques such as cross-validation and hyperparameter tuning to optimize model performance.
+   **5-** Model Selection and Tuning: Explored various regression algorithms, including linear regression, decision trees, random forests, and gradient boosting, to identify the best-performing model. Employed techniques such as cross-validation and hyperparameter tuning to optimize model performance.
 
-   **5-** Final Model Selection: Chose the most suitable regression model based on evaluation metrics and generalization performance.
+   **6-** Final Model Selection: Chose the most suitable regression model based on evaluation metrics and generalization performance.
 
-   **6-** Deployment: Deployed the final model for real-world use, allowing stakeholders to predict house prices based on relevant features. A video demonstration of the deployment process is provided for reference.
+   **7-** Deployment: Deployed the final model for real-world use, allowing stakeholders to predict house prices based on relevant features. A video demonstration of the deployment process is provided for reference.
    
 
 https://github.com/Mohamed-samy2/Advanced-House-Price-Prediction/assets/92379704/5140fe0d-2f7b-4064-874c-9c380dc3caf4
